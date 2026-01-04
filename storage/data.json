@@ -1,0 +1,132 @@
+{
+    "questions": {
+        "1": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "111": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "1114": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "1113": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "100": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "10": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "5": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        },
+        "3": {
+            "difficulty": "easy",
+            "start_date": "2026-01-04",
+            "schedule": [
+                "2026-01-04",
+                "2026-01-05",
+                "2026-01-07",
+                "2026-01-09"
+            ],
+            "completed_dates": [
+                "2026-01-04"
+            ],
+            "missed_dates": [],
+            "total_solves": 1
+        }
+    },
+    "consistency": {
+        "total_days": 0,
+        "active_days": 0,
+        "current_streak": 0,
+        "max_streak": 0,
+        "last_updated": null,
+        "daily_activity": {}
+    }
+}
